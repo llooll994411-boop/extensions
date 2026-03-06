@@ -27798,4 +27798,32 @@
       }
     ]
   }
+{
+ "name": "zero搬运网",
+ "lang": "zh",
+ "id": "8743284448117690086",
+ "baseUrl": "http://www.zerobywb.com",
+ "versionId": 1
+      }
+    ]
+  },
+
+{
+ "name": "Tachiyomi: ReadAllComics",
+ "pkg": "eu.kanade.tachiyomi.extension.en.readallcomics",
+ "apk": "tachiyomi-en.readallcomics-v1.0.apk",
+ "lang": "en",
+ "code": 1,
+ "version": "1.0",
+ "nsfw": 0,
+ "sources": [
+  {
+   "name": "ReadAllComics",
+   "lang": "en",
+   "id": "9123456789",
+   "baseUrl": "https://readallcomics.com"
+  }
+ ]
+}
+
 ]
